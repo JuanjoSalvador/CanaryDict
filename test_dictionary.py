@@ -12,7 +12,7 @@ def test_dictionary():
 	godo = dictionary.searchword('godo')
 	assert godo == 'miguel'
 	guagua = dictionary.searchword('guagua')
-	assert guagua = 'autobus'
+	assert guagua == 'autobus'
 
 def test_nodictionary():
 	dictionary = canarydictionary()
