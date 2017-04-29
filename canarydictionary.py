@@ -13,6 +13,7 @@ class canarydictionary():
             'papa': 'patata',
             'baifo': 'cabra',
             'godo': 'miguel',
+            'guagua': 'autobus',
         }
 
         if word in dictionary:
